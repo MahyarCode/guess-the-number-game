@@ -21,7 +21,7 @@ git clone https://github.com/MahyarCode/guess-the-number-game.git
 2. Navigate to the project
 
 ```bash
-cd project-name
+cd guess-the-number-game
 ```
 
 3. Install dependencies
