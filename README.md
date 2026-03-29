@@ -6,8 +6,8 @@ A game web app built with React and TypeScript for entertainment.
 
 - React
 - TypeScript
-- Vite / Create React App
-- Tailwind CSS / CSS Modules
+- Vite
+- Tailwind CSS
 - Context API
 
 ## Installation
